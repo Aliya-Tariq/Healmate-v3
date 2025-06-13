@@ -1,4 +1,4 @@
-# HealMate Medical Chatbot
+# 🩺 HEALMATE
 
 A modern medical chatbot for symptom analysis and urgency triage using OpenAI's GPT-3.5 Turbo model.
 
