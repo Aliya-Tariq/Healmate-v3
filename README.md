@@ -12,9 +12,6 @@ A modern medical chatbot for symptom analysis and urgency triage using OpenAI's 
 - **Disclaimer**: Clear medical disclaimer to ensure responsible use
 
 
-
-![HealMate Interface](screenshots/healmate_interface.png)
-
 ## Installation
 
 ### Prerequisites
