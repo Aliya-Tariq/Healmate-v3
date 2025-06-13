@@ -1,4 +1,5 @@
 # 🩺 HEALMATE
+![HealMate Interface](screenshots/healmate_interface.png)
 
 A modern medical chatbot for symptom analysis and urgency triage using OpenAI's GPT-3.5 Turbo model.
 
@@ -10,7 +11,7 @@ A modern medical chatbot for symptom analysis and urgency triage using OpenAI's 
 - **Beautiful Interface**: Stylish, responsive chat interface with 3D title effects
 - **Disclaimer**: Clear medical disclaimer to ensure responsible use
 
-## Screenshots
+
 
 ![HealMate Interface](screenshots/healmate_interface.png)
 
